@@ -1,3 +1,72 @@
+414	2016-09-30	2016-09-30	K. Malarz	<b>Małopolska Noc Naukowców na WFiIS</b>	"<br>
+Szanowni Państwo,
+<br>
+<p>Z przyjemnością zapraszamy Państwa (małych, większych i całkiem dużych) na Noc Naukowców na Wydziale Fizyki i Informatyki Stosowanej AGH, która odbędzie się w piątek, 30 września, w godzinach 18:00 - 24:00. Wszystkie zaplanowane wydarzenia odbędą się w budynku D-10 na ul. Reymonta 19 (naprzeciwko Stadionu Miejskiego im. Henryka Reymana).</p>
+<br>
+
+<ul>
+<li>21.00-22.00<br/>
+<b>Wirtualna wizyta w Europejskim Ośrodku Badań Jądrowych CERN</b> i łączność publiczności z naukowcami z eksperymentu CMS.<br/>
+budynek D-10, aula A<br/>
+</li>
+
+<br/>
+
+<li><b>Wykłady popularnonaukowe</b> osadzone w tematyce badań naukowych, które są prowadzone na wydziale (w tej edycji skupiona na tematyce informatyki stosowanej i fizyki środowiska) wygłaszane przez pracowników naukowo-dydaktycznych:<br/>
+
+<ul>
+<li>18.00<br/>
+dr inż. Joanna Świebocka-Więk:<br/>
+<b>Biometria: kiedy człowiek staje się liczbą</b><br/>
+budynek D-10, aula A<br/></li>
+
+<li>20.00<br/>
+dr inż. Łukasz Chmura:<br/>
+<b>Co fizycy widzą w chmurach?</b><br/>
+budynek D-10, aula A<br/></li>
+
+<li>22.00<br/>
+dr inż. Jakub Bartyzel:<br/>
+<b>Jak badamy jakość powietrza w Krakowie</b><br/>
+budynek D-10, aula A<br/></li>
+</ul>
+
+</li>
+
+<br/>
+
+<li><b>Zwiedzanie pracowni</b> naukowych WFIIS. Po laboratoriach będą oprowadzać opiekunowie pracowni i użytkownicy laboratoriów.
+
+<ul>
+<li>Laboratorium Fluorescencji Rentgenowskiej<br/>
+budynek D-11, sala 26</li>
+
+<br/>
+
+<li>Laboratorium Chromatografii Gazowej<br/>
+budynek D-10, sala 119</li>
+</ul>
+</li>
+
+<br/>
+
+
+<li>19.00-20.00 i 23.00-24.00<br/>
+W ogólnodostępnych stanowiskach przybliżenie metod laboratoryjnych stosowanych przez naukowców, od wirówek przez chromatografię do homogenizatora jak i modele działania różnych silników, doświadczenia z pogranicza fizyki i biologii: od modelu serca przez nieinwazyjne podglądanie wnętrza ciała ludzkiego do wirtualnej rzeczywistości.<br/><br/>
+Podczas pokazów w formie wykładów gwarantowana wycieczka od lodu do ognia &#8211; mrożące krew w żyłach doświadczenia z wykorzystaniem temperatury minus dwustu stopni Celsjusza, aby jednak atmosfera zbytnio się nie ochłodziła również płomienie &#8211; ku rozgrzaniu serc. Fizyką.</br><br/>
+Pokazy prowadzone przez członków studenckich kół naukowych działających na wydziale &#8211; Studenckiego Koła Naukowego Fizyków <b>&#8222;Bozon&#8221;</b> i Studenckiego Koła Naukowego Fizyków Medycznych <b>&#8222;Kerma&#8221;</b>. Członkowie Studenckiego Koła Naukowego Informatyków <b>&#8222;Kernel&#8221;</b> wprowadzą uczestników w świat wirtualnej rzeczywistości.<br/><br/>
+budynek D-10, aula A<br/>
+</li>
+
+<br/>
+
+<p align=""right""><b>Serdecznie zapraszamy!</b></p>
+"
+![image](https://user-images.githubusercontent.com/26794531/154839305-6c491edd-2d34-4d9a-b717-58136b52a016.png)
+
+
+
+
 2016-02-19	2016-03-15	Nature Communications 6 (2015) 8816	<br />
 
 <p>Szanowni Państwo,</p>
